@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - main
+    - chore/postgres17
   pull_request:
     branches:
     - main
